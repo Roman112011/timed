@@ -7,5 +7,7 @@ div{
     display: inline;
 }
 .main{
+    margin-top: 300px;
     display: block;
+    font-size: 50px;
 }
